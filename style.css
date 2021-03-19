@@ -1,0 +1,37 @@
+.container{
+    width: 1150px;
+    min-height: 1000px;
+    margin: 0px auto;
+    background-color: antiquewhite;
+}
+
+    div.container div.top{
+        padding: 10px;
+        text-align: center;
+    }
+
+    div.container div.top img,h1{
+        display: inline-block;
+    }
+    div.container div.top img{
+        width: 150px;
+        height: 100px;
+    }
+
+div.main{
+    text-align: center;
+}
+div.main img{
+    border: 2px solid black;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
